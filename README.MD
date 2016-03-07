@@ -44,4 +44,7 @@ Others:
 cd kazoo
 git pull
 
+2/one key setup script:
+wget https://raw.githubusercontent.com/FishTest/kazoo/master/kazoosetup.sh && chmod +x kazoosetup.sh && sudo ./kazoosetup.sh
+
 _2016_03_07_
